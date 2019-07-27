@@ -3,10 +3,9 @@
 <p align="center"><a href='https://ko-fi.com/B0B2TZMH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
 <p align="center">Important! The old version has been removed from the Google Play Store. Download the updated AndroCat from the store icon above to get the lastest updates.</p>
 
-
-
 ## Screenshots
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9d1a9f2296d543de941250c5596c3bdf)](https://app.codacy.com/app/mr.mustafa.ozhan/AndroCat?utm_source=github.com&utm_medium=referral&utm_content=mustafaozhan/AndroCat&utm_campaign=Badge_Grade_Dashboard)
 
 <img src="https://i.postimg.cc/WsScMB5v/1.png?dl=1" width="420px"/> <img src="https://i.postimg.cc/Vmq8NrM5/2.png?dl=1" width="420px"/>
 
